@@ -10,7 +10,7 @@ Define the overall look and feel of the website. Consider the color scheme, typo
 Ensure that the design reflects your brand identity and is consistent with your company's messaging.
 
 ![1](https://github.com/sai09kiran/Bootstrap-CP/assets/149383868/1d85b8b4-af8c-403d-bc21-a0f03ad090e6)
-![2](https://github.com/sai09kiran/Bootstrap-CP/assets/149383868/7f040eb5-42b8-4000-bc54-1754c1b7eaf9
+![2](https://github.com/sai09kiran/Bootstrap-CP/assets/149383868/be1aba2d-09ff-43fc-bf83-22f8150481c6)
 ![3](https://github.com/sai09kiran/Bootstrap-CP/assets/149383868/0ff20b72-0118-4b53-919e-6e55526429ab)
 ![4](https://github.com/sai09kiran/Bootstrap-CP/assets/149383868/04ae4592-7bd2-4f50-aefd-a533cd93b86c)
 ![5](https://github.com/sai09kiran/Bootstrap-CP/assets/149383868/aa774590-1317-4c42-871b-0932338b2beb)
